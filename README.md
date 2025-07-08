@@ -16,7 +16,7 @@
 >  
 > 기술 스택 : `Spring Boot`, `Java`, `Spring Data JPA`, `MySQL`
 > 
-> 📎 [Github Link](https://github.com/hyunn522/SQL-Lab](https://github.com/KUIT-Space/KUIT_Space_BackEnd))
+> 📎 [Github Link](https://github.com/KUIT-Space/KUIT_Space_BackEnd)
 
 ## 2. SQL Lab
 DBeaver를 활용해 MySQL과 Oracle 문법 실습을 진행한 프로젝트입니다.
