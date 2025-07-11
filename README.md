@@ -19,16 +19,16 @@
 
 ---
 
-## 2. 📈 SQL Lab
+## 2. 📈 RDBMS 파티셔닝 프로젝트
 
-> **DBeaver를 활용한 MySQL과 Oracle 문법 실습 프로젝트**
+> **대용량 데이터를 활용한 RDBMS 파티셔닝 프로젝트**
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/26b46da0-2ba2-4225-8c9a-a230920ce960" width="80%" />
+  <img width="80%" alt="image" src="https://github.com/user-attachments/assets/71399588-62a6-4433-bc84-b5f803ba2d57" />
 </p>
 
-> 기술 스택 : `MySQL`, `Oracle` 
+> 기술 스택 : `MySQL`, `Grafana` 
 >
-> 개발 기간 : 2025.07.08
+> 개발 기간 : 2025.07.11
 >
-> 📎 [GitHub 링크](https://github.com/hyunn522/SQL-Lab)
+> 📎 [GitHub 링크](https://github.com/kohtaewoo/TrendPhishing)
